@@ -1,3 +1,3 @@
 # git-tutorial
 Learn git<br>
-Version: 0.0.1-SNAPSHOT
+Version: 0.1.0.RELEASE
